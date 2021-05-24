@@ -1,5 +1,5 @@
 # CPSO-Platform
-Collaborative plant simulation and optimization platform
+Collaborative Plant Simulation and Optimization platform
 
 ## Features
 
